@@ -30,6 +30,7 @@ body {
     transform-style: preserve-3d;
     transform: rotateY(0deg);
     transition: 2s ease;
+    transform-origin: left center;
 }
 
 .book:hover {
